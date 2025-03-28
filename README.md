@@ -14,7 +14,7 @@ Python
 Pandas
 NumPy
 Scikit-learn
-Matplotlib
+Matplotlib 
 Seaborn
 
 WordCloud
