@@ -4,7 +4,6 @@ Sentiment Classification using Naïve Bayes
 This project performs text classification using the Naïve Bayes algorithm. It takes a dataset containing text data and their corresponding sentiment categories (-1, 0, 1), processes the data using TF-IDF vectorization, trains a classifier, and evaluates its performance using various visualization techniques.
 
 📂 Dataset
-
 The dataset consists of two columns:
 clean_text: Preprocessed text data.
 category: Label representing sentiment (-1: Negative, 0: Neutral, 1: Positive).
